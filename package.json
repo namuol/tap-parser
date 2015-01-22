@@ -1,6 +1,6 @@
 {
   "name": "tap-parser-yaml",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "parse the test anything protocol (with yaml diagnostic block parsing)",
   "main": "index.js",
   "bin": {
